@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/temperaturee"
+
+        android:title="Temperatura"
+
+
+        android:icon="@drawable/tempp"
+        />
+
+    <item
+        android:id="@+id/soilmoisturee"
+        android:title="Vlažnost tla"
+        android:icon="@drawable/sm1sm"/>
+
+    <item
+        android:id="@+id/settingss"
+        android:title="Konfiguracija"
+        android:icon="@drawable/ic_settings"/>
+</menu>

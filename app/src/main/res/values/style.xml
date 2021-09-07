@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NavDrawerTextStyle" parent="Base.TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:spacing">10dp</item>
+        <item name="android:fontFamily">@font/doubleplus</item>
+        <item name="android:alpha">1.0</item>
+
+
+    </style>
+</resources>
